@@ -8,7 +8,7 @@
 
    DejaVu Sans Mono
 
-   ![1589379880181](P:\OneConfig\Intellij\配置intellij.assets\1589379880181.png)
+   ![1589379880181](配置intellij.assets\1589379880181.png)
 
 2. 主题
 
@@ -18,23 +18,23 @@
 
    习惯使用 Source Code Pro
 
-   ![1589380107412](P:\OneConfig\Intellij\配置intellij.assets\1589380107412.png)
+   ![1589380107412](配置intellij.assets\1589380107412.png)
 
 4. Code Style
 
    [intellij-java-google-style.xml](https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml)
 
-   ![1589380752400](P:\OneConfig\Intellij\配置intellij.assets\1589380752400.png)
+   ![1589380752400](配置intellij.assets\1589380752400.png)
 
 5. 换行
 
    一行长度设置为 120
 
-   ![1589380817055](P:\OneConfig\Intellij\配置intellij.assets\1589380817055.png)
+   ![1589380817055](配置intellij.assets\1589380817055.png)
 
 6. File Header
 
-   ![1589380954601](P:\OneConfig\Intellij\配置intellij.assets\1589380954601.png)
+   ![1589380954601](配置intellij.assets\1589380954601.png)
 
 
 
